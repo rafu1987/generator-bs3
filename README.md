@@ -1,4 +1,4 @@
-# generator-bs [![Build Status](https://secure.travis-ci.org/rafu1987/generator-bs.png?branch=master)](https://travis-ci.org/rafu1987/generator-bs)
+# generator-bs3
 
 > [Yeoman](http://yeoman.io) generator
 
@@ -23,16 +23,16 @@ npm install -g yo
 
 Yeoman travels light. He didn't pack any generators when he moved in. You can think of a generator like a plug-in. You get to choose what type of application you wish to create, such as a Backbone application or even a Chrome extension.
 
-To install generator-bs from npm, run:
+To install generator-bs3 from npm, run:
 
 ```bash
-npm install -g generator-bs
+npm install -g generator-bs3
 ```
 
 Finally, initiate the generator:
 
 ```bash
-yo bs
+yo bs3
 ```
 
 ### Getting To Know Yeoman
