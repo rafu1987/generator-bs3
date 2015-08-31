@@ -1,0 +1,30 @@
+{
+  "name": "generator-bs3",
+  "version": "0.0.1",
+  "description": "Yeoman generator",
+  "license": "MIT",
+  "main": "app/index.js",
+  "repository": "rafu1987/generator-bs3",
+  "author": {
+    "name": "Raphael Zschorsch",
+    "email": "rafu1987@gmail.com",
+    "url": "https://github.com/rafu1987"
+  },
+  "scripts": {
+
+  },
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.19.0",
+    "chalk": "^1.0.0",
+    "yosay": "^1.0.2"
+  },
+  "devDependencies": {
+
+  }
+}
